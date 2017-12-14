@@ -8,8 +8,4 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
-
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+爱家、爱老婆、爱女儿、也爱写代码的技术男。
